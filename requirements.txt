@@ -14,3 +14,4 @@ SQLAlchemy==1.4.27
 typing_extensions==4.0.1
 Werkzeug==2.0.2
 zipp==3.6.0
+flask-httpauth==4.5.0
